@@ -2,7 +2,7 @@
 🔭 Currently working at NUPEC(UNDB research Center) on the scientific initiation project: "Artificial Inteligence Applied to Agribusiness"<br>📚 Software Engineering student at UNDB University Center, Brazil <br>🌱 I’m currently learning Azure, Data Engineering and Machine Learning<br>📬E-mail: leandroabc1401@gmail.com
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leandro-launé-12587426a) 
 
 # 💻 Tech Stack:
