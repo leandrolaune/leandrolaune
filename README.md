@@ -10,7 +10,7 @@
 
 ☁️ Areas of interest include **Data Engineering, Data Architecture, Cloud Computing, Analytics, Operational Reliability, Continuous Improvement and Artificial Intelligence**.
 
-📬 E-mail: leandroabc1401@gmail.com
+📬 E-mail: leandro.laune14@gmail.com
 
 ## 🌐 Socials
 
@@ -18,7 +18,7 @@
 
 ## 💻 Tech Stack
 
-Python • SQL • Power BI • SAP BO • Azure • Microsoft Fabric • Power Automate • Copilot Studio • Git
+Python • SQL • Power BI • SAP • Azure • Microsoft Fabric • Power Power Platform  • Git
 
 ## 🎯 Objective
 
