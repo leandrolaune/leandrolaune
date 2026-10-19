@@ -4,7 +4,7 @@
 
 📊 Passionate about transforming data into strategic insights through **Data Engineering**, **Business Intelligence**, **Analytics** and **Artificial Intelligence**.
 
-🚂 Experienced in developing data-driven solutions using **Power BI, Python, SQL, SAP BusinessObjects, Power Automate and Microsoft Copilot Studio** to support decision-making, operational excellence and process optimization.
+🚂 Experienced in developing data-driven solutions using **Power BI, Python, SQL, SAP, Power Automate and Microsoft Copilot Studio, Machine Leanring and KPIs** to support decision-making, operational excellence and process optimization.
 
 📚 Software Engineering student at UNDB University Center and **FAPEMA Research Scholar**, conducting applied research in **Artificial Intelligence, Machine Learning and Computer Vision**, with publications in **Qualis A2 scientific journals**.
 
