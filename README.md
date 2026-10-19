@@ -1,12 +1,25 @@
-# 💫 About Me:
-🔭 Currently working at NUPEC(UNDB research Center) on the scientific initiation project: "Artificial Inteligence Applied to Agribusiness"<br>📚 Software Engineering student at UNDB University Center, Brazil <br>🌱 I’m currently learning Azure, Data Engineering and Machine Learning<br>📬E-mail: leandroabc1401@gmail.com
+# 💫 About Me
 
+🔭 Currently working at Vale's Locomotive Engineering and Reliability Department, contributing to projects involving data analysis, performance indicators, process automation, operational reliability and continuous improvement.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leandro-launé-12587426a) 
+📊 Passionate about transforming data into strategic insights through **Data Engineering**, **Business Intelligence**, **Analytics** and **Artificial Intelligence**.
 
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-## 🎯Objective:
-Passionate about technology and data, as well as back-end. I have a great thirst for continuous learning, new knowledge and innovation. My goal is to join a company where I can learn, grow professionally and collaborate as much as possible to deliver excellent results.
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🚂 Experienced in developing data-driven solutions using **Power BI, Python, SQL, SAP BusinessObjects, Power Automate and Microsoft Copilot Studio** to support decision-making, operational excellence and process optimization.
+
+📚 Software Engineering student at UNDB University Center and **FAPEMA Research Scholar**, conducting applied research in **Artificial Intelligence, Machine Learning and Computer Vision**, with publications in **Qualis A2 scientific journals**.
+
+☁️ Areas of interest include **Data Engineering, Data Architecture, Cloud Computing, Analytics, Operational Reliability, Continuous Improvement and Artificial Intelligence**.
+
+📬 E-mail: leandroabc1401@gmail.com
+
+## 🌐 Socials
+
+[LinkedIn](https://linkedin.com/in/leandro-launé-12587426a)
+
+## 💻 Tech Stack
+
+Python • SQL • Power BI • SAP BO • Azure • Microsoft Fabric • Power Automate • Copilot Studio • Git
+
+## 🎯 Objective
+
+Seeking opportunities where I can combine **Engineering, Data, Continuous Improvement and Technology** to solve complex problems, optimize processes and generate measurable value for business or operations.
