@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🔭 Currently working at Vale's Locomotive Engineering and Reliability Department, contributing to projects involving data analysis, performance indicators, process automation, operational reliability and continuous improvement.
+🔭 Currently working at Vale's Engineering and Reliability Department, contributing to projects involving data analysis, performance indicators, process automation, operational reliability and continuous improvement.
 
 📊 Passionate about transforming data into strategic insights through **Data Engineering**, **Business Intelligence**, **Analytics** and **Artificial Intelligence**.
 
