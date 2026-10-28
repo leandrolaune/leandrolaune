@@ -18,7 +18,7 @@
 
 ## 💻 Tech Stack
 
-Python • SQL • Power BI • SAP • Azure • Microsoft Fabric • Power Power Platform  • Git
+Python • SQL • Power BI • SAP •  Power Power Platform  • Git
 
 ## 🎯 Objective
 
